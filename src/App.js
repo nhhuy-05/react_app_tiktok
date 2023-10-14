@@ -11,9 +11,9 @@ function App() {
 
   return (
     <div className="App">
-      <button onClick={handleDecrease}>Decrement</button>
+      <button onClick={handleDecrease}>Decrement 1</button>
       <h1>Counter: {counter}</h1>
-      <button onClick={handleIncrease} >Increment</button>
+      <button onClick={handleIncrease} >Increment 1</button>
 
     </div>
   );
